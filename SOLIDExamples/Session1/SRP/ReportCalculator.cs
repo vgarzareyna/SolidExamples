@@ -1,6 +1,6 @@
 using SOLIDExamples.Session1.Common.Data;
 
-namespace SOLIDExamples.Session1.SRP.Calculation
+namespace SOLIDExamples.Session1.SRP
 {
     public class ReportCalculator
     {

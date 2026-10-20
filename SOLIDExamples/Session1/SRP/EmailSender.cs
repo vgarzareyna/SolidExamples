@@ -1,6 +1,6 @@
 ﻿using SOLIDExamples.Session1.Common.Report;
 
-namespace SOLIDExamples.Session1.SRP.ReportSender
+namespace SOLIDExamples.Session1.SRP
 {
     public class EmailSender(List<string> emails)
     {

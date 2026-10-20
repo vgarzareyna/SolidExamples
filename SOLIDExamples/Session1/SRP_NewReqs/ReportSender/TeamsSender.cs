@@ -1,6 +1,6 @@
 ﻿using SOLIDExamples.Session1.Common.Report;
 
-namespace SOLIDExamples.Session1.SRP.ReportSender
+namespace SOLIDExamples.Session1.SRP_NewReqs.ReportSender
 {
     public class TeamsSender(List<string> emails)
     {

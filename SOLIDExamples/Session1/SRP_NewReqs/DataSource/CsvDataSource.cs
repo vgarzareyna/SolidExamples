@@ -1,6 +1,6 @@
 ﻿using SOLIDExamples.Session1.Common.Data;
 
-namespace SOLIDExamples.Session1.SRP.DataSource
+namespace SOLIDExamples.Session1.SRP_NewReqs.DataSource
 {
     public class CsvDataSource(string path)
     {

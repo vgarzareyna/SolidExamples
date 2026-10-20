@@ -1,7 +1,7 @@
 ﻿using SOLIDExamples.Session1.Common.Data;
 using SOLIDExamples.Session1.Common.Report;
 
-namespace SOLIDExamples.Session1.SRP.ReportGenerator
+namespace SOLIDExamples.Session1.SRP_NewReqs.ReportGenerator
 {
     public class ExcelReportGenerator(string path)
     {
